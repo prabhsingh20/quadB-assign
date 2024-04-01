@@ -1,0 +1,1 @@
+This project is a simple todo application tailored for travelers, allowing them to manage their packing lists efficiently. It utilizes Redux for state management, enabling users to add, delete, and toggle items on their packing lists.
